@@ -100,3 +100,6 @@ Trainee in the data protection department, assisting in research on GDPR.
 * Github: Kotauror
 * Codewars http://www.codewars.com/users/kotauror
 * LinkedIn: justyna-zygmunt
+
+
+![#7a0f38](https://placehold.it/15/7a0f38/000000?text=+) `#7a0f38`
