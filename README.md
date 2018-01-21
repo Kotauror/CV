@@ -1,50 +1,114 @@
-## Your Name
+# Justyna Zygmunt
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Intellectual property & IT lawyer gone IT.
 
-## Skills
+***
 
-#### This Skill
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+After over three years of working as a lawyer and academic assistant in the field of intellectual property law and new technologies, I've decided to "switch sides" and explore the programming world as a software developer. So far I've learned HTML, CSS, Ruby and the basics of Rails, and I have a strong desire to learn more tools and technologies in order to broaden my skillset.
 
-- Experience
-- Achievements
-- Evidence
+As a future software developer, I would like to find myself in a position where I could work with a group of passionate people who like sharing knowledge and enjoy improving the results of their works.
 
-#### Another Skill
+***
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+### <a name="skills">Skills</a>
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Attention to detail
 
-## Education
+Working as a IP/IT lawyer vastly improved my ability to process huge amount of details and new informations in a very short time. I've learned to make sure that all facts relevant to a client were considered and properly elaborated upon. It helps me a lot with programming as I'm well aware that each sentence should be given a thought as even a smallest slip may have ... consequences.
 
-#### Makers Academy (start_date to end_date)
+#### Agile working
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+Some of my offices' clients used to work in Agile what required from me - as a person drafting their software development and maintenance contracts - deep understanding of this methodology. I believe that my knowledge and experience in this field will help me smoothly enter the programming workflow.
 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Research
 
-#### Your University / College (start_date to end_date)
+I have almost 4 years experience as an academic researcher and lecturer. I used to work as a head of research project on international copyright law at Jagiellonian University in Krakow, collaborating with UC Berkeley and Max Planck University. I've received £ 35 000 state grant for my research and soon will be defending my PhD thesis (I've already received positive review, at the moment I'm scheduling the defence).
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Friendly team-player
 
-#### Any other qualifications
+I'm a very sociable person, truly enjoying teamwork, always willing to discuss, collaborate and improve. I consider myself empathic, what helps me successfully working with (almost*) everyone.
 
-## Experience
+(* just a tiny disclaimer - lawyer's habit...)
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+***
+
+### <a name="projects">Projects</a>
+
+Project | Link| Description | Technologies Used | Testing Technologies
+--- | --- | --- | ---
+*Dino-London* |
+[![heroku](https://cloud.githubusercontent.com/assets/12953472/18688266/701982fc-7f7b-11e6-8971-5f1e03f554b7.png)][1] [![github](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][2] |
+ A rails web application about the London Dinosaurs. | Ruby, Rails, Postgres, HTML, CSS, Heroku | RSpec
+*AMArchitektura* |
+[![surge](https://pbs.twimg.com/profile_images/571425976362352640/W-ShR64-.png)][3] [![github_48](https://cloud.githubusercontent.com/assets/12953472/18687862/de8df31e-7f79-11e6-937c-f20c0e0ee2b4.png)][4] |
+
+A website created for my friend - Aga Marcinkowska - an architect. | HTML, CSS, Surge |
+
+***
+
+### <a name="education">Education</a>
+
+#### Makers Academy (December 2017 - April 2018)
+
+#### University of Cambridge, British Law Centre Warsaw (09/2015 - 09/2017)
+* Postgraduate studies on English and European Union law [britishlawcentre.co.uk];
+* Graduated with 2.1 honours degree;
+
+#### Jagiellonian University, Poland (09/2015 – 09/2017)
+* PhD studies in law
+
+#### Jagiellonian University, Poland (09/2010 – 09/2015)
+* MA studies in law;
+* graduated with first degree;
+* beneficiary of Ministry of Science scholarship;
+
+***
+
+### <a name="experience">Experience</a>
+
+**Kochański Zięba & Partners Business Law Firm, Poland** (03/2017 – 10/2017)
+*Lawyer, Associate*
+• Core member of New Technologies and Telecommunication Practice.
+• Pursuing compliance audits in data protection (including GDPR); drafting data processing agreements and security policies; advising international clients on business strategies connected to methods of data processing; preparing and managing workshops and presentations on data protection.
+• Negotiating and drafting license and technology transfer agreements in Agile and Waterfall methodologies; pursuing compliance audits in copyright, trademarks, databases and unfair competition; preparing and managing workshops and presentations on IP.
+
+**Jagiellonian University, Poland** 09/2014 – 02/2018
+*Head of research project, assistant, lecturer*
+• Head of research project concerning fair use in US and EU copyright law. Outstanding lecturer on intellectual property law, copyright and civil law (92% fully satisfied students, 150 students voted). Author of numerous publications on data protection and copyright law in Polish and English. Speaker at international conferences.
+
+**Traple Konarski Podrecki Law Firm, Poland** 03/2015 – 07/2015, 03/2014 – 05/2014
+*Trainee, Lawyer*            
+Member of Technology, Media and Telecommunication Practice, focused on copyright and data protection, responsible for carrying out compliance audits, drafting agreements and preparing legal opinions.
+
+**Polish Ministry of Digitalization, Poland** 09/2014 – 10/2014
+*Trainee*                                           
+Trainee in the data protection department, assisting in research on GDPR.  
+
+**D. Dąbrowska and A. Zduńczyk law offices, Poland** 09/2013 – 09/2014
+*Paralegal*
+
+***
+
+### <a name="interests">Interests</a>
+
+* New technologies, coding;
+* Basketball;
+* Hiking;
+* Arts.
+
+***
+
+## ### <a name="contact">Contact</a>
+
+Github: Kotauror
+Codewars http://www.codewars.com/users/kotauror
+LinkedIn: justyna-zygmunt
+
+
+
+[1]: https://london-dinosaurs.herokuapp.com
+[2]: https://github.com/Kotauror/Dinosaurs
+[3]: http://amarchitektura.surge.sh
+[4]: https://github.com/Kotauror/AMArchitektura
