@@ -15,19 +15,19 @@ As a future software developer, I would like to find myself in a position where 
 
 ### <a name="skills">Skills</a>
 
-##### Attention to detail
+#### Attention to detail
 
 Working as a IP/IT lawyer vastly improved my ability to quickly process huge amounts of information. I've learned to make sure that all the facts relevant to the client were considered and properly elaborated upon. It helps me a lot with programming as I'm well aware that each sentence should be given a thought as even a smallest slip may have adverse consequences.
 
-##### Agile working
+#### Agile working
 
 Some of my previous offices' clients work in Agile what required from me - as a person drafting their software development and maintenance contracts - a deep understanding of this methodology. I believe that my knowledge and experience in this field will help me smoothly enter this programming workflow.
 
-##### Research
+#### Research
 
 I have almost 4 years experience as an academic researcher and lecturer. I used to work as a head of research project on international copyright law at Jagiellonian University in Krakow, collaborating with UC Berkeley and Max Planck University. I've received a £ 35 000 state grant for my research and soon will be defending my PhD thesis (I've already received positive review, I'm currently scheduling the defense).
 
-##### Friendly team-player
+#### Friendly team-player
 I'm a very sociable person, truly enjoying teamwork, always willing to discuss, collaborate and improve. I consider myself empathic, what helps me successfully working in a team.
 
 ***
@@ -97,4 +97,4 @@ Trainee in the data protection department, assisting in research on GDPR.
 
 ### <a name="contact">Contact</a>
 
-<a href="https://www.linkedin.com/in/justyna-zygmunt/"><img src="logos/linkedin.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://github.com/Kotauror/"><img src="logos/github.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="http://www.codewars.com/users/kotauror"><img src="logos/codewars.png" width="50"></a>
+<a href="https://www.linkedin.com/in/justyna-zygmunt/"><img src="logos/linkedin.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://github.com/Kotauror/"><img src="logos/github.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://www.codewars.com/users/Kotauror"><img src="logos/codewars.png" width="50"></a>
