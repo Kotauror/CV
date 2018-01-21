@@ -64,14 +64,14 @@ Project | Link | Description | Technologies Used| Testing Technologies
 
 ### <a name="experience">Experience</a>
 
+**Jagiellonian University, Poland** 09/2014 – 02/2018<br>
+*Head of research project, assistant, lecturer* <br>
+Head of research project concerning fair use in US and EU copyright law. Outstanding lecturer on intellectual property law, copyright and civil law (92% fully satisfied students, 150 students voted). Author of numerous publications on data protection and copyright law in Polish and English. Speaker at international conferences.
+
 **Kochański Zięba & Partners Business Law Firm, Poland** (03/2017 – 10/2017)<br>
 *Lawyer, Associate* <br>
 Pursuing compliance audits in data protection; drafting data processing agreements and security policies; advising international clients on business strategies connected to methods of data processing. <br>
 Negotiating and drafting license and technology transfer agreements; pursuing compliance audits in copyright, trademarks, databases and unfair competition.
-
-**Jagiellonian University, Poland** 09/2014 – 02/2018<br>
-*Head of research project, assistant, lecturer* <br>
-Head of research project concerning fair use in US and EU copyright law. Outstanding lecturer on intellectual property law, copyright and civil law (92% fully satisfied students, 150 students voted). Author of numerous publications on data protection and copyright law in Polish and English. Speaker at international conferences.
 
 **Traple Konarski Podrecki Law Firm, Poland** 03/2015 – 07/2015, 03/2014 – 05/2014 <br> *Trainee, Lawyer*    
 Member of Technology, Media and Telecommunication Practice, focused on copyright and data protection, responsible for carrying out compliance audits, drafting agreements and preparing legal opinions.
