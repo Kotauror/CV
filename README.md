@@ -37,8 +37,8 @@ I'm a very sociable person, truly enjoying teamwork, always willing to discuss, 
 
 Project | Link | Description | Technologies Used| Testing Technologies
 --- | --- | --- | --- | ---
-**Dino-London** | <a href="https://london-dinosaurs.herokuapp.com"><img src="logos/hosting_heroku.png" width="80"></a><a href="https://github.com/Kotauror/Dinosaurs"><img src="logos/github.png" width="60"></a> |A rails web application about the London Dinosaurs. Check out the dino database and add your own dinosaur! | Ruby, Rails, Postgres, Javascript, HTML, CSS, Heroku |
-**AMArchitektura** | <a href="http://amarchitektura.surge.sh"><img src="logos/surge.png" width="60"></a> <a href="https://github.com/Kotauror/AMArchitektura"><img src="logos/github.png" width="60"></a> | A website created for my friend - Aga Marcinkowska - an architect. | HTML, CSS, Surge |
+**Dino-London** | <a href="https://london-dinosaurs.herokuapp.com"><img src="logos/hosting_heroku.png" width="80"></a><a href="https://github.com/Kotauror/Dinosaurs"><img src="logos/github.png" width="40"></a> |A rails web application about the London Dinosaurs. Check out the dino database and add your own dinosaur! | Ruby, Rails, Postgres, Javascript, HTML, CSS, Heroku |
+**AMArchitektura** | <a href="http://amarchitektura.surge.sh"><img src="logos/surge.png" width="60"></a> <a href="https://github.com/Kotauror/AMArchitektura"><img src="logos/github.png" width="40"></a> | A website created for my friend - Aga Marcinkowska - an architect. | HTML, CSS, Surge |
 
 #### At the Makers Academy
 
@@ -67,8 +67,8 @@ Project | Link | Description | Technologies Used| Testing Technologies
 **Kochański Zięba & Partners Business Law Firm, Poland** (03/2017 – 10/2017)<br>
 *Lawyer, Associate* <br>
 Core member of New Technologies and Telecommunication Practice. <br>
-Pursuing compliance audits in data protection (including GDPR); drafting data processing agreements and security policies; advising international clients on business strategies connected to methods of data processing; preparing and managing workshops and presentations on data protection. <br>
-Negotiating and drafting license and technology transfer agreements in Agile and Waterfall methodologies; pursuing compliance audits in copyright, trademarks, databases and unfair competition; preparing and managing workshops and presentations on IP.
+Pursuing compliance audits in data protection; drafting data processing agreements and security policies; advising international clients on business strategies connected to methods of data processing; preparing and managing workshops and presentations on data protection. <br>
+Negotiating and drafting license and technology transfer agreements; pursuing compliance audits in copyright, trademarks, databases and unfair competition; preparing and managing workshops and presentations on IP.
 
 **Jagiellonian University, Poland** 09/2014 – 02/2018<br>
 *Head of research project, assistant, lecturer* <br>
@@ -97,4 +97,4 @@ Trainee in the data protection department, assisting in research on GDPR.
 
 ### <a name="contact">Contact</a>
 
-<a href="https://www.linkedin.com/in/justyna-zygmunt/"><img src="logos/linkedin.png" width="80"></a> <img src="logos/empty.png" width="40"> <a href="https://github.com/Kotauror/"><img src="logos/github.png" width="80"></a> <img src="logos/empty.png" width="40"> <a href="http://www.codewars.com/users/kotauror"><img src="logos/codewars.png" width="80"></a>
+<a href="https://www.linkedin.com/in/justyna-zygmunt/"><img src="logos/linkedin.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://github.com/Kotauror/"><img src="logos/github.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="http://www.codewars.com/users/kotauror"><img src="logos/codewars.png" width="50"></a>
