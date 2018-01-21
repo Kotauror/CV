@@ -1,8 +1,8 @@
+
 # Justyna Zygmunt
 
 Intellectual property & IT lawyer gone IT.
-
-***
+<br>
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
@@ -27,7 +27,6 @@ Some of my previous offices' clients work in Agile what required from me - as a 
 I have almost 4 years experience as an academic researcher and lecturer. I used to work as a head of research project on international copyright law at Jagiellonian University in Krakow, collaborating with UC Berkeley and Max Planck University. I've received a £ 35 000 state grant for my research and soon will be defending my PhD thesis (I've already received positive review, I'm currently scheduling the defense).
 
 ##### Friendly team-player
-
 I'm a very sociable person, truly enjoying teamwork, always willing to discuss, collaborate and improve. I consider myself empathic, what helps me successfully working in a team.
 
 ***
