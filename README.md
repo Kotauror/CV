@@ -4,7 +4,7 @@ Intellectual property & IT lawyer gone IT.
 
 ***
 
-<span style="color:#7a0f38">[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) </span>
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact) 
 
 After over three years of working as a lawyer and academic assistant in the field of intellectual property law and new technologies, I've decided to "switch sides" and explore the programming world as a software developer. So far I've learned HTML, CSS, Ruby and the basics of Rails, and I have a strong desire to learn more tools and technologies in order to broaden my skillset.
 
@@ -12,7 +12,7 @@ As a future software developer, I would like to find myself in a position where 
 
 ***
 
-### <a name="skills"><span style="color:#7a0f38">Skills</span></a>
+### <a name="skills">Skills</a>
 
 ##### Attention to detail
 
@@ -43,7 +43,7 @@ Project | Link | Description | Technologies Used| Testing Technologies
 
 ***
 
-### <a name="education"><span style="color:#7a0f38">Education</span></a>
+### <a name="education">Education</a>
 
 ##### Makers Academy (December 2017 - April 2018)
 
@@ -61,7 +61,7 @@ Project | Link | Description | Technologies Used| Testing Technologies
 
 ***
 
-### <a name="experience"><span style="color:#7a0f38">Experience</span></a>
+### <a name="experience">Experience</a>
 
 **Kochański Zięba & Partners Business Law Firm, Poland** (03/2017 – 10/2017)
 *Lawyer, Associate* <br>
@@ -86,7 +86,7 @@ Trainee in the data protection department, assisting in research on GDPR.
 
 ***
 
-### <a name="interests"><span style="color:#7a0f38">Interests</span></a>
+### <a name="interests">Interests</a>
 
 * New technologies, coding;
 * Basketball;
@@ -95,11 +95,8 @@ Trainee in the data protection department, assisting in research on GDPR.
 
 ***
 
-### <a name="contact"><span style="color:#7a0f38">Contact</span></a>
+### <a name="contact">Contact</a>
 
 * Github: Kotauror
 * Codewars http://www.codewars.com/users/kotauror
 * LinkedIn: justyna-zygmunt
-
-
-![#7a0f38](https://placehold.it/15/7a0f38/000000?text=+) `#7a0f38`
