@@ -1,8 +1,9 @@
 
-# Justyna Zygmunt
+## Justyna Zygmunt
 
 Intellectual property & IT lawyer gone IT.
-<br><br>
+
+****
 
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
