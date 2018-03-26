@@ -14,7 +14,7 @@ Former IT lawyer gone IT.
 ### <a name="projects">Projects</a>
 
 Project | Repo | Description | Technologies Used| Testing Technologies | Deployed (click)
---- | --- | --- | --- | --- | --- 
+--- | --- | --- | --- | --- | ---
 **Photo-fridge** | <a href="https://github.com/Kotauror/instagram-challenge"><img src="logos/github.png" width="40"></a> | A Rails instagram clone for food. [Weekend solo project] | Ruby, Rails, Postgres, HTML, CSS | RSpec | <a href="https://photo-fridge.herokuapp.com"><img src="logos/hosting_heroku.png" width="90"></a> + AWS
 **News-Collector** |  <a href="https://github.com/Kotauror/news-summary-challenge"><img src="logos/github.png" width="40"></a> | A front-end JS App - get headlines from Guardian's API and summaries from Aylien. [Weekend solo project] | JavaScript, AJAX, HTML, CSS | Jasmine | <a href="http://news-summaries.surge.sh"><img src="logos/surge.png" width="60"></a>
 **BomberCat** |  <a href="https://github.com/lwkchan/bombercat/"><img src="logos/github.png" width="40"></a> |  A Front-end JS BomberCat game. [Week group project] | JavaScript, CreateJS library, jQuery, HTML, CSS | Jasmine | <a href="http://bombercat.surge.sh"><img src="logos/surge.png" width="60"></a>
@@ -26,7 +26,7 @@ Project | Repo | Description | Technologies Used| Testing Technologies | Deploye
 
 #### Front-end and Design
 
-I pay a lot of attention to UI/UX, my projects look and feel pleasing. I'm fluent in CSS and HTML, getting better at JavaScript and it's libraries. Check out my favourite designs: <a href="http://http://news-summaries.surge.sh/">News Summaries App</a> in JS, <a href="http://http://bombercat.surge.sh/">Bombercat Game</a> in JS & CreateJS, and <a href="http://amarchitektura.surge.sh">Architecture Portfolio</a> in pure CSS & HTML.
+I pay a lot of attention to UI/UX, my projects look and feel pleasing. I'm fluent in CSS and HTML, getting better at JavaScript and it's libraries. Check out my favourite designs: <a href="http://news-summaries.surge.sh/">News Summaries App</a> in JS, <a href="http://bombercat.surge.sh/">Bombercat Game</a> in JS & CreateJS, and <a href="http://amarchitektura.surge.sh">Architecture Portfolio</a> in pure CSS & HTML.
 
 #### Back-end
 
