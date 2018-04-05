@@ -7,7 +7,9 @@ Former IT lawyer gone IT.
 
 [Projects](#projects) | [Technical Skills](#tech-skills) | [Soft Skills](#soft-skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) | [Contact](#contact)
 
-<p> After over three years of working as a lawyer and academic assistant in the field of intellectual property law and new technologies, I've finally decided to "switch sides" and enter the programming world as a software developer. I'm passionate about coding and it's practical implementations. So far I've learned: *HTML, CSS, Ruby(Rails, RSpec), Javascript (CreateJS, Node, Sequelize, Jasmine) and the basics of SQL*, and I have a strong desire to learn more tools and technologies in order to broaden my skillset.
+<p> After over three years of working as a lawyer and academic assistant in the field of intellectual property law and new technologies, I've finally decided to "switch sides" and enter the programming world as a software developer. I'm passionate about coding and it's practical implementations - from solving complicated logical problems to building fun games and pleasing graphical designs.
+
+Check out my <a href="https://justyna-zygmunt.surge.sh">portfolio</a> to learn more about my various projects.
 
 ***
 
@@ -105,4 +107,4 @@ Trainee in the data protection department, assisting in research on GDPR.
 
 ### <a name="contact">Find me</a>
 
-<a href="https://www.linkedin.com/in/justyna-zygmunt/"><img src="logos/linkedin.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://github.com/Kotauror/"><img src="logos/github.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://www.codewars.com/users/Kotauror"><img src="logos/codewars.png" width="50"></a>
+<a href="https://www.linkedin.com/in/justyna-zygmunt/"><img src="logos/linkedin.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://github.com/Kotauror/"><img src="logos/github.png" width="50"></a> <img src="logos/empty.png" width="40"> <a href="https://www.codewars.com/users/Kotauror"><img src="logos/codewars.png" width="50"></a> <img src="logos/empty.png" width="40"><a href="https://www.justyna-zygmunt.surge.sh"><img src="logos/surge.png" width="50"></a>
