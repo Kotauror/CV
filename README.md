@@ -1,7 +1,7 @@
 
 ## Justyna Zygmunt
 
-Former IT lawyer gone IT.
+Former IT lawyer gone IT, looking for a job as a full-stack developer.
 
 ****
 
@@ -17,9 +17,9 @@ Check out my <a href="https://justyna-zygmunt.surge.sh">portfolio</a> to learn m
 
 Project | Repo | Description | Technologies Used| Testing Technologies | Deployed (click)
 --- | --- | --- | --- | --- | ---
+**BomberCat** |  <a href="https://github.com/lwkchan/bombercat/"><img src="logos/github.png" width="40"></a> |  A Front-end JS BomberCat game. [Week group project] | JavaScript, CreateJS library, jQuery, HTML, CSS | Jasmine | <a href="http://bombercat.surge.sh"><img src="logos/surge.png" width="60"></a>
 **Photo-fridge** | <a href="https://github.com/Kotauror/instagram-challenge"><img src="logos/github.png" width="40"></a> | A Rails instagram clone for food. [Weekend solo project] | Ruby, Rails, Postgres, HTML, CSS | RSpec | <a href="https://photo-fridge.herokuapp.com"><img src="logos/hosting_heroku.png" width="90"></a> + AWS
 **News-Collector** |  <a href="https://github.com/Kotauror/news-summary-challenge"><img src="logos/github.png" width="40"></a> | A front-end JS App - get headlines from Guardian's API and summaries from Aylien. [Weekend solo project] | JavaScript, AJAX, HTML, CSS | Jasmine | <a href="http://news-summaries.surge.sh"><img src="logos/surge.png" width="60"></a>
-**BomberCat** |  <a href="https://github.com/lwkchan/bombercat/"><img src="logos/github.png" width="40"></a> |  A Front-end JS BomberCat game. [Week group project] | JavaScript, CreateJS library, jQuery, HTML, CSS | Jasmine | <a href="http://bombercat.surge.sh"><img src="logos/surge.png" width="60"></a>
 **Bowling Calculator** |  <a href="https://github.com/Kotauror/bowling-challenge"><img src="logos/github.png" width="40"></a> | A full-stack JS app to count Bowling score [2 weekends solo project] | JavaScript, jQuery, HTML, CSS | Jasmine | <a href="http://bowling-calculator.surge.sh/"><img src="logos/surge.png" width="60"></a>
 ***
 
@@ -28,7 +28,7 @@ Project | Repo | Description | Technologies Used| Testing Technologies | Deploye
 
 #### Front-end and Design
 
-I pay a lot of attention to UI/UX, my projects look and feel pleasing. I'm fluent in CSS and HTML, getting better at JavaScript and it's libraries. Check out my favourite designs: <a href="http://news-summaries.surge.sh/">News Summaries App</a> in JS, <a href="http://bombercat.surge.sh/">Bombercat Game</a> in JS & CreateJS, and <a href="http://amarchitektura.surge.sh">Architecture Portfolio</a> in pure CSS & HTML.
+I pay a lot of attention to UI/UX, my projects look and feel pleasing. I'm fluent in CSS and HTML, getting better at JavaScript and its libraries. Check out my favourite designs: <a href="http://news-summaries.surge.sh/">News Summaries App</a> in JS, <a href="http://bombercat.surge.sh/">Bombercat Game</a> in JS & CreateJS, and <a href="http://amarchitektura.surge.sh">Architecture Portfolio</a> in pure CSS & HTML.
 
 #### Back-end
 
@@ -63,16 +63,16 @@ I'm a very sociable person, truly enjoying teamwork, always willing to discuss, 
 ##### Makers Academy (December 2017 - April 2018)
 
 ##### University of Cambridge, British Law Centre Warsaw (09/2015 - 09/2017)
-* Postgraduate studies on English and European Union law;
-* Graduated with 2.1 degree;
+* Postgraduate studies on English and European Union law
+* Graduated with 2.1 degree
 
 ##### Jagiellonian University, Poland (09/2015 – 09/2017)
 * PhD studies in law
 
 ##### Jagiellonian University, Poland (09/2010 – 09/2015)
-* MA studies in law;
-* Graduated with first degree;
-* Beneficiary of Ministry of Science scholarship;
+* MA studies in law
+* Graduated with first degree
+* Beneficiary of Ministry of Science scholarship
 
 ***
 
@@ -98,10 +98,10 @@ Trainee in the data protection department, assisting in research on GDPR.
 
 ### <a name="interests">Interests</a>
 
-* New technologies, coding;
-* Basketball;
-* Hiking;
-* Arts.
+* New technologies, coding
+* Basketball
+* Hiking
+* Arts
 
 ***
 
