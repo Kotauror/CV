@@ -9,7 +9,7 @@ Former IT lawyer gone IT, looking for a job as a full-stack developer.
 
 <p> After over three years of working as a lawyer and academic assistant in the field of intellectual property law and new technologies, I've finally decided to "switch sides" and enter the programming world as a software developer. I'm passionate about coding and it's practical implementations - from solving complicated logical problems to building fun games and pleasing graphical designs.
 
-Check out my <a href="https://justyna-zygmunt.surge.sh">portfolio</a> to learn more about my various projects.
+Check out my <a href="https://justyna-zygmunt.surge.sh">Portfolio</a> to learn more about my various projects and the <a href="https://gist.github.com/Kotauror">Gists</a> where I explain particularly difficult or interessting issues.
 
 ***
 
